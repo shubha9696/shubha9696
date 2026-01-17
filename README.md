@@ -17,7 +17,7 @@
 
 ## <p align="center">🐍 The Contribution Explorer</p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubha9696/shubha9696/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="./assets/snake.svg" alt="Snake Animation" />
 </p>
 
 <br/>
