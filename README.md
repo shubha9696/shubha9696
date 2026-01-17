@@ -1,21 +1,21 @@
-# <p align="center">⚡ SUPREME TECH ARCHITECT ⚡</p>
+# <p align="center">✨ THE ARCHITECT'S NEXUS ✨</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:00D2FF&height=300&section=header&text=SHUBHAM%20CHAKRAWARTI&fontSize=80&animation=twinkling&fontAlignY=38&desc=Architecting%20the%20Intelligence%20of%20Tomorrow&descAlignY=62&descSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=250&section=header&text=Shubham%20Chakrawarti&fontSize=65&animation=fadeIn&fontAlignY=40&desc=AI/ML%20Engineer%20•%20Software%20Engineer%20•%20Data%20Analyst&descAlignY=62&descSize=24" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=ELITE+AI+%2F+ML+ENGINEER;DATA+ANALYST+@+DELOITTE;SOFTWARE+ENGINEER+@+JPMORGAN;MULTIDISCIPLINARY+DEVELOPER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=ELITE+AI+%2F+ML+ENGINEER;DATA+ANALYST+@+DELOITTE;SOFTWARE+ENGINEER+@+JPMORGAN;MULTIDISCIPLINARY+DEVELOPER" alt="Typing SVG" />
 </p>
 
 <br/>
 
 <div align="center">
   <a href="https://resume-portfolio-ahdr-shubha9696s-projects.vercel.app">
-    <img src="https://img.shields.io/badge/🔮%20DIVE_INTO_3D_GALAXY-A855F7?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔮%20EXPLORE%203D%20PORTFOLIO-blue?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/shubham-chakrawarti-27764836a/">
-    <img src="https://img.shields.io/badge/🚀%20ELITE_NETWORKING-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/🤝%20PROFESSIONAL%20CONNECT-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
@@ -23,7 +23,7 @@
 
 ## <p align="center">🐍 THE NEURAL SNAKE EXPEDITION</p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubha9696/shubha9696/main/assets/snake.svg" alt="Snake Animation" width="90%"/>
+  <img src="assets/snake.svg" alt="Snake Animation" width="90%"/>
 </p>
 
 <br/>
@@ -31,30 +31,24 @@
 <div align="center">
   <table border="0" width="100%">
     <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">👤 SYSTEM PROFILE</h3>
+      <td width="55%" valign="top">
+        <h3 align="center">💎 CORE ARCHITECTURE</h3>
         <p align="center">
-          <i>"I don't just write code; I design the intelligence behind it."</i>
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square" />
-          <img src="https://img.shields.io/badge/Location-India-blue?style=flat-square" />
+          <i>"Synthesizing data into reality, one pixel at a time."</i>
         </p>
         <ul>
-          <li>🌌 <b>Current Mission:</b> B.Tech in CSE (Artificial Intelligence).</li>
-          <li>🏛️ <b>Infrastructure:</b> Specializing in Generative AI & Secure Systems.</li>
-          <li>⚡ <b>Core Engine:</b> Full-Stack Fluidity & Predictive Mathematics.</li>
+          <li>🌌 <b>Project:</b> Creating high-intelligence generative models.</li>
+          <li>🏛️ <b>Pillars:</b> Data Analyst @ <b>Deloitte</b> | Software Engineer @ <b>JPMorgan</b>.</li>
+          <li>🎯 <b>Education:</b> B.Tech in CSE (AI) @ Parul University.</li>
         </ul>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">🏛️ PROFESSIONAL PILLARS</h3>
+        <h3 align="center">🛠️ THE ARSENAL</h3>
         <p align="center">
-          <img src="https://img.shields.io/badge/Deloitte-Data_Analyst-86EFAC?style=for-the-badge&logo=deloitte&logoColor=black" />
-          <br/>
-          <img src="https://img.shields.io/badge/JPMorgan-Software_Engineer-3182CE?style=for-the-badge&logo=jpmorgan&logoColor=white" />
-          <br/>
-          <img src="https://img.shields.io/badge/YBI_Foundation-AI_Intern-A855F7?style=for-the-badge" />
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,postgres,mongodb,pytorch,docker,aws,vercel&perline=6" /></a>
         </p>
+      </td>
+      <td width="45%" valign="top">
+        <h3 align="center">📊 NEURAL METRICS</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=shubha9696&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D2FF" width="100%" />
       </td>
     </tr>
   </table>
@@ -62,31 +56,15 @@
 
 <br/>
 
-## <p align="center">🛠️ THE NEXUS ARSENAL</p>
+## <p align="center">🗓️ ISOMETRIC SPACETIME MODEL</p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,express,postgres,mongodb,pytorch,tensorflow,docker,git,github,vercel,vscode,linux,aws&perline=9" />
-  </a>
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Calendar" width="100%"/>
 </p>
 
 <br/>
 
-## <p align="center">📊 NEURAL NETWORK ANALYTICS</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubha9696&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D2FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubha9696&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D2FF" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubha9696&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=00D2FF" width="100%" />
-</div>
-
-<br/>
-
-## <p align="center">🗓️ ISOMETRIC SPACETIME MODEL</p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubha9696/shubha9696/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Calendar" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubha9696&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=00D2FF" width="100%" />
 </p>
 
 <br/>
