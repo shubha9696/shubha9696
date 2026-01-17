@@ -3,12 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=SHUBHAM%20CHAKRAWARTI&fontSize=65&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=⚡%20AI/ML%20Architect%20•%20Full-Stack%20Innovator%20•%20Data%20Scientist%20⚡&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
-<!-- Enhanced Typing Animation -->
+<!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=💡+AI/ML+Engineer+%7C+Data+Scientist;🚀+Building+Intelligent+Solutions;💻+Full-Stack+Developer;🎓+B.Tech+CSE+(AI)+at+Parul+University;🌟+Passionate+About+Innovation" alt="Typing SVG" />
-[[](url)](url)[[](url)](url)[](url)[](url)[](url)[[](url)](url)(url)nt=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+Intelligent+Solutions;Data+Analyst+%40+Deloitte;Software+Engineer+%40+JPMorgan;B.Tech+CSE+(AI)+Student;Passionate+About+Innovation" alt="Typing SVG" />
-
-<br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+Intelligent+Solutions;Data+Analyst+%40+Deloitte;Software+Engineer+%40+JPMorgan;B.Tech+CSE+(AI)+Student;Passionate+About+Innovation" alt="Typing SVG" />
+</div>
 
 <!-- Animated Snake -->
 <div align="center">
