@@ -6,7 +6,7 @@
 <!-- Enhanced Typing Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=💡+AI/ML+Engineer+%7C+Data+Scientist;🚀+Building+Intelligent+Solutions;💻+Full-Stack+Developer;🎓+B.Tech+CSE+(AI)+at+Parul+University;🌟+Passionate+About+Innovation" alt="Typing SVG" />
-[[](url)](url)(url)nt=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+Intelligent+Solutions;Data+Analyst+%40+Deloitte;Software+Engineer+%40+JPMorgan;B.Tech+CSE+(AI)+Student;Passionate+About+Innovation" alt="Typing SVG" />
+[[](url)](url)[[](url)](url)[](url)[](url)[](url)[[](url)](url)(url)nt=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+Intelligent+Solutions;Data+Analyst+%40+Deloitte;Software+Engineer+%40+JPMorgan;B.Tech+CSE+(AI)+Student;Passionate+About+Innovation" alt="Typing SVG" />
 
 <br>
 
